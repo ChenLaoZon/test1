@@ -1,0 +1,7 @@
+{
+	
+	"type": "cpu",
+	"serverip":   "192.168.1.10",
+    "serverport": "8084",
+    "colientport": "8089"
+}
